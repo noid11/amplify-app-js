@@ -1,6 +1,4 @@
 .idea
-node_modules
-dist
 
 #amplify
 amplify/\#current-cloud-backend
@@ -13,3 +11,6 @@ dist/
 node_modules/
 aws-exports.js
 awsconfiguration.json
+
+#sensitive file
+amplify/team-provider-info.json
